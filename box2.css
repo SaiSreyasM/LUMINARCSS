@@ -1,0 +1,39 @@
+.c{
+    width: 500px;
+    height: 500px;
+    border: 5px black solid;
+}
+.c1{
+    background-color: rgba(127, 255, 212, 0);
+    margin-top: 400px;
+    margin-left: 700px;
+}
+
+.c2{
+    background-color: rgba(95, 158, 160, 0);
+    margin-top: -508px;
+    margin-left: 1260px;
+}
+
+
+h1{
+    color: cadetblue;
+}
+
+span{
+    color: greenyellow;
+}
+
+
+#d1{
+
+color: blue;
+}
+
+
+body{
+    background-image: url("./images/22.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
